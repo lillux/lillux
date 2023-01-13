@@ -13,7 +13,7 @@ As a maker, I have built and used many FDM **3D printers**, including *cartesian
 ### Biotechnologist
 I am graduating in ***MSc. in Industrial Biotechnology***.
 
-I have completed an Internship at *Center for Nanomedicine and Tissue Engineering*, Niguarda Hospital, Milan, that resulted in [this](https://github.com/lillux/morphoscanner) software library, of which I am the *core developer*.
+I have completed an Internship at *Center for Nanomedicine and Tissue Engineering*, Niguarda Hospital, Milan, that resulted in this [software library](https://github.com/lillux/morphoscanner), of which I am the *core developer*.
 
 I have completed my master thesis project at [Ivan Zanoni Lab](https://www.zanonilab.com/), Boston Children's Hospital, Boston MA, working on *fungal ligands*, *innate immunity* and *vaccines adjuvants*.
 
