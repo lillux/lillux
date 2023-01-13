@@ -3,12 +3,12 @@
 I am Calogero, friendly known as Lillo.
 
 ### Dentist
-I am a ***Dentist*** and a ***Dental Technician***, with strong experience in *medical images processing* and *medical modeling*.
+I am a ***Dentist*** and a ***Dental Technician***, with experience in *medical images processing* and *medical modeling*.
 
-Other than working in the clinic, I use *computer vision* and *machine learning algorithms* to produce 3D models from medical images, and then I 3D print them using *additive manufacturing*. You find my graduation thesis on these stuffs [here](https://github.com/lillux/Technology-in-Dentistry).
+When I am not with patients in the clinic, I use *computer vision* and *machine learning algorithms* to produce 3D models from medical images, and then I 3D print them using *additive manufacturing*. You find my graduation thesis on these stuffs [here](https://github.com/lillux/Technology-in-Dentistry).
 
 ### Maker
-As a maker, I have built and used many FDM **3D printers**, including *cartesian*, *delta* and *coreXY* design, and a *multi-material* **Tool-Changer by E3D**. I use CAD software and [Blender](https://www.blender.org/) to design parts and object, and I have used RaspberryPi and Arduino on some projects.
+I like to spend time with additive manufacturing, 3D models and computer graphics. I have built and used many FDM **3D printers**, including *cartesian*, *delta* and *coreXY* design, and a *multi-material* **Tool-Changer by E3D**. I use CAD software and [Blender](https://www.blender.org/) to design parts and objects. Sometimes a design get renderized too.
 
 ### Biotechnologist
 I am graduating in ***Industrial Biotechnology***.
