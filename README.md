@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Calogero, but mostly known as Lillo.
+I am Calogero, friendly known as Lillo.
 
 ### Dentist
 I am a ***Dentist*** and a ***Dental Technician***, with strong experience in *medical images processing* and *medical modeling*.
