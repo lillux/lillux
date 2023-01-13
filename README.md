@@ -11,7 +11,7 @@ Other than working in the clinic, I use *computer vision* and *machine learning 
 As a maker, I have built and used many FDM **3D printers**, including *cartesian*, *delta* and *coreXY* design, and a *multi-material* **Tool-Changer by E3D**. 
 
 ### Biotechnologist
-I am graduating in ***MSc. in Industrial Biotechnology***.
+I am graduating in ***Industrial Biotechnology***.
 
 I have completed an Internship at *Center for Nanomedicine and Tissue Engineering*, Niguarda Hospital, Milan, that resulted in this [software library](https://github.com/lillux/morphoscanner), of which I am the *core developer*.
 
