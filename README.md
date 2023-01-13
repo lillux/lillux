@@ -5,7 +5,7 @@ I am Calogero, but mostly known as Lillo.
 ### Dentist
 I am a ***Dentist*** and a ***Dental Technician***, with strong experience in *medical images processing* and *medical modeling*.
 
-Other than working in the clinic, I use *computer vision* and *machine learning algorithms* to produce 3D models from medical images, and then I 3D print them using *additive manufacturing*. You find some of these stuffs [here](https://github.com/lillux/Technology-in-Dentistry), although I should update those a bit.
+Other than working in the clinic, I use *computer vision* and *machine learning algorithms* to produce 3D models from medical images, and then I 3D print them using *additive manufacturing*. You find my graduation thesis on these stuffs [here](https://github.com/lillux/Technology-in-Dentistry).
 
 ### Maker
 As a maker, I have built and used many FDM **3D printers**, including *cartesian*, *delta* and *coreXY* design, and a *multi-material* **Tool-Changer by E3D**. 
