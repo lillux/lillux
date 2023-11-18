@@ -4,7 +4,7 @@ I am Calogero, friendly known as Lillo.
 
 ### Scientist (?)
 I am a PhD candidate in Molecular Medicine at [COSR](https://research.hsr.it/en/centers/omics-sciences.html), under the supervision of [Davide Cittaro](https://github.com/dawe).
-I work on *spatial omics data*.
+I work with *spatial omics data*.
 
 ### Biotechnologist
 I am an ***Industrial Biotechnologist***.
