@@ -3,11 +3,11 @@
 I work with *spatial omics data*.
 
 Previously intern at:
-- *Center for Nanomedicine and Tissue Engineering*, Niguarda Hospital, Milan, core developer of [morphoscanner](https://github.com/lillux/morphoscanner)
 - [Ivan Zanoni Lab](https://www.zanonilab.com/), Boston Children's Hospital, Boston MA, working on *fungal ligands*, *innate immunity* and *vaccines adjuvants*.
+- *Center for Nanomedicine and Tissue Engineering*, Niguarda Hospital, Milan, core developer of [morphoscanner](https://github.com/lillux/morphoscanner)
 
 ### Clinician
-***Dentist*** at *ASST Santi Paolo e Carlo*, Milan.
+***Dentist*** at [ASST Santi Paolo e Carlo](https://www.asst-santipaolocarlo.it/), Milan.
 
 ### Other stuffs
 I make 3D models from medical images, and then I 3D print them using *additive manufacturing*. You find my graduation thesis on these stuffs [here](https://github.com/lillux/Technology-in-Dentistry).\
