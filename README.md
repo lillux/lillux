@@ -4,7 +4,7 @@ I work with *spatial omics data*.
 
 Previously intern at:
 - [Ivan Zanoni Lab](https://www.zanonilab.com/), Boston Children's Hospital, Boston MA, working on *fungal ligands*, *innate immunity* and *vaccines adjuvants*.
-- *Center for Nanomedicine and Tissue Engineering*, Niguarda Hospital, Milan, core developer of [morphoscanner](https://github.com/lillux/morphoscanner)
+- [Center for Nanomedicine and Tissue Engineering](https://www.cnte.science/), Niguarda Hospital, Milan, core developer of [morphoscanner](https://github.com/lillux/morphoscanner)
 
 ### Clinician
 ***Dentist*** at [ASST Santi Paolo e Carlo](https://www.asst-santipaolocarlo.it/), Milan.
