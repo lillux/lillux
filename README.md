@@ -1,6 +1,6 @@
 ### Scientist (?)
 ***PhD candidate*** in Molecular Medicine at [COSR](https://research.hsr.it/en/centers/omics-sciences.html), under the supervision of [Davide Cittaro](https://github.com/dawe).
-I work with *spatial omics data*.
+I work with *omics data*.
 
 Previously intern at:
 - [Ivan Zanoni Lab](https://www.zanonilab.com/), Boston Children's Hospital, Boston MA, working on *fungal ligands*, *innate immunity* and *vaccines adjuvants*.
