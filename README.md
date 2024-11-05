@@ -1,5 +1,5 @@
 ### Scientist (?)
-***PhD candidate*** in Molecular Medicine at [COSR](https://research.hsr.it/en/centers/omics-sciences.html), under the supervision of [Davide Cittaro](https://github.com/dawe).
+***PhD candidate*** in Molecular Medicine at [COSR](https://research.hsr.it/en/centers/omics-sciences.html), under the supervision of [Davide Cittaro](https://github.com/dawe) and [Giovanni Petri](https://github.com/lordgrilo).
 I work with *omics data*.
 
 Previously intern at:
