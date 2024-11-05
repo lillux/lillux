@@ -1,6 +1,6 @@
 ### Scientist (?)
 ***PhD candidate*** in Molecular Medicine at [COSR](https://research.hsr.it/en/centers/omics-sciences.html), under the supervision of [Davide Cittaro](https://github.com/dawe) and [Giovanni Petri](https://github.com/lordgrilo).\
-I work with omics data, stochastic models, and networks.
+I work with *omics* data, *stochastic models*, and *networks*.
 
 Previously intern at:
 - [Ivan Zanoni Lab](https://www.zanonilab.com/), Boston Children's Hospital, Boston MA, working on *fungal ligands*, *innate immunity* and *vaccines adjuvants*.
